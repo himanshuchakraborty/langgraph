@@ -1,2 +1,2 @@
 # langgraph
-langgraph workflows: sequential, parallel and others
+langgraph workflows: sequential, parallel, conditional or routing
